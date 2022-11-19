@@ -7,10 +7,11 @@ export const sidebarEn: SidebarConfig = {
       children: [
         '/en/guide/',
         '/en/guide/getting-started',
+        '/en/guide/design-concepts',
         '/en/guide/faq',
-        '/en/guide/changelog',
         '/en/guide/i18n',
         '/en/guide/contributing',
+        '/en/guide/changelog',
       ],
     },
   ],

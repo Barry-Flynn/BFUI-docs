@@ -12,8 +12,8 @@ BFUI 目前定位是一个用来简化部分前端开发工作的工具，开发
 
 - QQ 群组：[534984250](https://qm.qq.com/cgi-bin/qm/qr?k=afn2P002RJm0JkEj3Egsp738KjW_LtKC&authKey=hsFMT4Lip8FB0YMckCWs5GFXQxfb0JDiu1)
 - 交流社区：[https://support.qq.com/products/417041/](https://support.qq.com/products/417041/)
-- BFUI 仓库：[https://github.com/Barry-Flynn/BFUI](https://github.com/Barry-Flynn/BFUI)
-- BFUI-docs 文档仓库：[https://github.com/Barry-Flynn/BFUI-docs](https://github.com/Barry-Flynn/BFUI-docs)
+- BFUI仓库：[https://github.com/Barry-Flynn/BFUI](https://github.com/Barry-Flynn/BFUI)
+- 文档仓库：[https://github.com/Barry-Flynn/BFUI-docs](https://github.com/Barry-Flynn/BFUI-docs)
 
 ## 与其他项目有何不同？
 

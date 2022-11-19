@@ -7,10 +7,11 @@ export const sidebarZh: SidebarConfig = {
       children: [
         '/zh/guide/',
         '/zh/guide/getting-started',
+        '/zh/guide/design-concepts',
         '/zh/guide/faq',
-        '/zh/guide/changelog',
         '/zh/guide/i18n',
         '/zh/guide/contributing',
+        '/zh/guide/changelog',
       ],
     },
   ],
